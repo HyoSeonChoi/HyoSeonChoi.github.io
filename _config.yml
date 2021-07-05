@@ -18,7 +18,7 @@ minimal_mistakes_skin: "aqua" # "default" ,"aqua", "air", "contrast", "dark", "d
 locale: "en-US"
 title: "13♡42 "
 title_separator: "-"
-subtitle: "study blog"
+subtitle: "| study blog"
 name: "HyoSeonChoi"
 description: "***"
 url: "https://hyoseonchoi.github.io"
@@ -94,28 +94,26 @@ analytics:
 # Site Author
 author:
   name: "HyoSeonChoi"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/tokkisae.png"
   bio: "'^'"
   location: "Somewhere"
   email: "13eye42@naver.com"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon:
       # url: "mailto:your.name@email.com"
     - label: "Website"
-      icon: "fas fa-fw fa-link"
+      icon:
       # url: "https://your-website.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon:
       # url: "https://twitter.com/"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HyoSeonChoi"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
